@@ -63,8 +63,8 @@ module.exports = {
         use: 'babel-loader',
         include: [
           resolvePath('src'),
-          resolvePath('node_modules/framework7'),
-          resolvePath('node_modules/framework7-vue'),
+          resolvePath('node_modules/framework7-cn'),
+          resolvePath('node_modules/framework7-cn-vue'),
 
 
           resolvePath('node_modules/template7'),

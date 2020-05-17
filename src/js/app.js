@@ -1,12 +1,12 @@
 import Vue from 'vue';
-import Framework7 from 'framework7/framework7-lite.esm.bundle.js';
-import Framework7Vue from 'framework7-vue/framework7-vue.esm.bundle.js';
+import Framework7 from 'framework7-cn/framework7-lite.esm.bundle.js';
+import Framework7Vue from 'framework7-cn-vue/framework7-vue.esm.bundle.js';
 import ECharts from 'vue-echarts'
 import Trend from "vuetrend"
 import VueNumerals from 'vue-numerals'
 import vCascade from 'v-cascade'
 
-import 'framework7/css/framework7.bundle.css';
+import 'framework7-cn/css/framework7.bundle.css';
 import "vue-select/dist/vue-select.css";
 
 import '../css/icons.css';
